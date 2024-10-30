@@ -25,7 +25,7 @@ Bem-vindo ao repositório de aulas de Python! Este repositório contém diversos
 3. Siga as instruções dentro do notebook para aprender e experimentar com o código.
 
 # Requisitos
-Conta no Google para acessar o Google Colab.
+Ter alguma IDE instalada (Pycharm, Visual Studio Code)
 
 # Conhecimento básico de Python.
 
